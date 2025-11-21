@@ -7,7 +7,7 @@
 
 
 
-![](https://github.com/ericrullepada/Funnel-Conversion-and-Segmentation-Insights-Analysis-for-Men-s-Fashion-E-Commerce-Website-/blob/main/dashboard.png)
+![](https://github.com/ericrullepada/Philippine-Ecommerce-Sales-Report/blob/main/Screenshot%202025-11-19%20221904.png)
 
 
 ## **Recommendations:**
