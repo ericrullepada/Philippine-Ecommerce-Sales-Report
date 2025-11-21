@@ -1,11 +1,8 @@
 # Philippine Ecommerce Sales Report
 
-# Funnel Conversion and Segmentation Insights Analysis for Men's Fashion E-Commerce Website 
-
 ## **Executive Summary**
 
-
-**This project analyzes nationwide ecommerce performance in the Philippines to identify trends in sales, profit, product performance, and delivery efficiency. Using SQL and Power BI, the dashboard provides a clear snapshot of business performance and supports data-driven decisions to improve growth and operations.
+**This project analyzes nationwide ecommerce performance in the Philippines to identify trends in sales, profit, product performance, and delivery efficiency. Using SQL and Power BI, the dashboard provides a clear snapshot of business performance and supports data-driven decisions to improve growth and operations.**
 
 
 
@@ -15,43 +12,45 @@
 
 ## **Recommendations:**
 
-•	Improve product pages to boost Add to Cart actions.
+•	Increase marketing and promotional activity to counter the decline in sales and stimulate demand.
 
-•	Run A/B tests on checkout flow and promotions rather than segment specific upgrade.
+•	Improve fulfillment operations to reduce late and canceled deliveries.
 
-•	Optimize mobile UX to support better conversion rate.
+•	Strengthen focus on high-performing products while addressing weak SKUs through pricing, bundling, or product strategy adjustments.
 
+•  Use customer segment performance to tailor marketing and product offerings more effectively.
+
+• Continuously monitor costs to maintain profit margin stability while increasing volume-driven growth.
 
 ## **Business Problem Statement**
 
-Despite steady website traffic, the men’s fashion e-commerce platform is not meeting its sales conversion targets. Stakeholders need to understand **which stage of the customer journey has the highest abandonment rate and also analyze if the Segmented Values have a significance in purchase rate of ther users ** to focus future updates and improve overall conversion to successful purchases.
+Sales, profit, and order volume have declined year-to-date, suggesting challenges in customer demand and operational efficiency. Delivery delays and cancellations are also impacting overall performance and customer experience, requiring deeper analysis and corrective actions.
 
 ## **Methodology**
 
-1.	SQL query for data extraction , data cleaning , and transform the data from databases. 
-2.	Connect the database to Power BI for a visualization and tracking of number and percentage per website use stages.
+1.Cleaned and transformed raw data using SQL
+
+2.Modeled data relationships in Power BI
+
+3.Built interactive dashboards for KPI tracking, product insights, segment comparison, and geographic performance
+
+4.Analyzed sales and operational trends at category, product, customer segment, and regional levels
 
 ## **Skills:**
    
 **MySql** : CTEs, Joins, Case, Aggregate Functions 
 
-**Statistical Testing** :   Chi-square to evaluate conversion differences across segments
-
 **Power BI** : DAX, writing functions , ETL , calculated columns ,  and data visualizations .
 
 ## **Results and Business Recommendation**
-A major decline is observed throughout the funnel, with the **most significant drop-off (40.29%)** occurring between **Visit** and **Add to Cart**. Ultimately, only **16.54 % of total visitors complete a purchase**.
 
-**•	Improve Product Pages:** Enhance content quality, visuals, and calls-to-action to increase Add to Cart rates.
+**•All major YTD KPIs (Sales, Profit, and Quantity) show a downward trend, signaling a slowdown in performance.**
 
-**• Provided data-driven direction to improve efficiency by focusing on acquisition costs rather than demographic segmentation.**
+**•Technology, Office Supplies, and Furniture categories are declining compared to the previous year.**
 
-**•Simplify Checkout Flow:** Streamline steps, reduce friction, and offer guest checkout to minimize cart abandonment.
+**•Top products continue to drive significant revenue, while several low-performing SKUs are underperforming without improvement.**
 
-**•	Implement A/B Testing:** Test different checkout designs, promotions, and page elements to optimize conversion.
+**•Delivery performance shows a high share of late and canceled shipments, indicating a need for operational improvement.**
 
-**•	Enhance Mobile Experience:** Focus on performance, navigation, and mobile responsiveness to support conversion growth.
+**•Despite slowing revenue, the profit margin remains relatively stable, suggesting cost control efforts are effective.**
 
-## **Next Steps :**
-1.	AB test on lessening the number of clicks for a faster transaction
-2.	Conduct a more comprehensive review or analysis on a customer’s review and survey.
